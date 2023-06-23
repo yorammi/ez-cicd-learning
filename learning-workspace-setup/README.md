@@ -1,4 +1,4 @@
-# Modern open-source CI/CD course - setup & labs
+# ez CI/CD course - setup & labs
 ![ez logo](/resources/images/ez/ez-logo-small.png)
 ## pre-requisites for all labs
 For performing all labs, you need to have a workspace (on your laptop, desktop or other environment such as a cloud-provider environment) with the following tools/technologies:

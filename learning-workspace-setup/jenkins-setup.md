@@ -1,5 +1,5 @@
 # Jenkins insatallation & setup
-
+![ez logo](/resources/images/ez/ez-logo-small.png)
 ## setup Jenkins instance on Kubernetes
 (based on the following page: https://octopus.com/blog/jenkins-helm-install-guide)
 

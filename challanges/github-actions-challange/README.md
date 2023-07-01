@@ -6,7 +6,7 @@ creating a GitHub repository for the challange, based on a ready made project
  2. browse to the [Import your project to GitHub](https://github.com/new/import) page
  3. In the '**Your old repository's clone URL**' textbox, insert the following path:
   ```
-  https://gitlab.com/ez-yorammi/ez-dotnetcore-example.git 
+  https://github.com/yorammi/ez-golang-example.git 
   ```
  3. In the '**Repository name**' textbox, name your repository as 'ez-dotnetcore-example' or whatever name you prefer
  7. in the '**Visibility Level**' field, select '**Private**' or '**Public**' - whatever you like.

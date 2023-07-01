@@ -5,3 +5,4 @@
 ## Challanges
 
 - [GitLab challange](challanges/gitlab-challange)
+- [GitHub Actions challange](challanges/github-actions-challange)

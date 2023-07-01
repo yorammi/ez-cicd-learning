@@ -12,12 +12,21 @@ creating a GitHub repository for the challange, based on a ready made project
  7. in the '**Visibility Level**' field, select '**Private**' or '**Public**' - whatever you like.
  8. Click the '**Begin import**' button
 
-## General pipeline guidelines
-The purpose of this challange is to create a CI/CD pipeline.
+## Adding workflow
+1. Browse to your new created repository
+2. Browse to 'Settings'/'Actions'/'General'
+3. Select the 'Allow all actions and reusable workflows' option and click the 'Save' button
+4. Select 'Actions' from the top toolbar
+5. Select the 'Go' suggestion (if it is not listed, search for it') and click the 'configure' button
+6. Click the 'Commit changes ...' button in the opened page
+7. Click the 'Commit changes' in the pop up form
+8. Browse to the 'Go' action to see that the build run and pass OK
 
-The syntax of the pipeline should be according to: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions.
-
-In order to really understand the syntax, please don't use a template pipeline and don't use the ready-made solution which you can find as a project branch.
-
+## Advanced challange
+If you like to get better in GitHub Actions, try to modify the yaml file so the flow will:
+- Lint and vet the code (install and use golint for that)
+- build the Dockerfile
+- Upload the Docker image to Dockerhub
+You can get inspiration from the flow that resides in the 'possible-challange-solution' branch
 
 

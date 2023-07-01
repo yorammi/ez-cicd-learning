@@ -10,19 +10,19 @@ creating a GitLab project for the challange, based on a ready made project
   ```
   https://gitlab.com/ez-yorammi/ez-dotnetcore-example.git 
   ```
-  6. in the '**Project name**' textbox, insert the following name, or whatever name you prefer (remember that this project will be used for all the rest of the labs as well):
+  6. in the '**Project name**' textbox, insert the following name, or whatever name you prefer:
   ```
   Ez Dotnetcore Example
   ```
- 7. in the '**Visibility Level**' field, select '**Internal**'
+ 7. in the '**Visibility Level**' field, select '**Private**' or '**Public**' - whatever you like. 
  8. Click the '**Create project**' button
 
 ## General pipeline guidelines
-The purpose of this lab is to create a CI/CD pipeline for the master branch of the project that you've created on Lab02.
+The purpose of this challange is to create a CI/CD pipeline.
 
 The syntax of the pipeline should be according to: https://docs.gitlab.com/ee/ci/yaml/.
 
-In order to really understand the syntax, please don't use a template pipeline and don't use the ready-made solution which you can find in the project branch which its name matches the name of the lab.
+In order to really understand the syntax, please don't use a template pipeline and don't use the ready-made solution which you can find as a project branch.
 
 For creating a first CI/CD pipeline, or updating it, you can just click the 'CI/CD' option on the left pane, and then click the 'Editor' sub-item.
 Then, make sure you select the correct branch on the top drop-down list.

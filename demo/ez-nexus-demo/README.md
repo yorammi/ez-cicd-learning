@@ -1,6 +1,5 @@
 # ez-nexus-demo
 ![ez logo](/resources/images/ez/ez-logo-small.png)
-# <font color=blue size="16">ez-nexus-demo</font>
 
 
 ## setup Nexus server

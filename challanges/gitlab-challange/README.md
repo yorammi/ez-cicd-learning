@@ -2,7 +2,7 @@
 ![ez logo](/resources/images/ez/ez-logo-small.png)
 ## GitLab project creation
 creating a GitLab project for the challange, based on a ready made project
- 1. Login to your GitLab account
+ 1. Login to your GitLab account. If you don't have a GitLab user yet, [sign up to GitLab](https://docs.gitlab.com/ee/user/profile/account/create_accounts.html#create-users-on-sign-in-page).
  2. click the '**New Project**' button
  3. Select the '**Import project**' option and click on it
  4. Click the '**Repository by URL**' option

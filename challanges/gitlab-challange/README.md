@@ -1,5 +1,5 @@
 # EZ! GitLab challange
-![ez logo](/resources/images/ez/ez-logo-small.png)
+![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
 ## GitLab project creation
 creating a GitLab project for the challange, based on a ready made project
  1. Login to your GitLab account. If you don't have a GitLab user yet, [sign up to GitLab](https://docs.gitlab.com/ee/user/profile/account/create_accounts.html#create-users-on-sign-in-page).

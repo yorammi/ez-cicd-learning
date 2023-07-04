@@ -1,5 +1,5 @@
 # ez-argocd-demo
-![ez logo](/resources/images/ez/ez-logo-small.png)
+![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
 
 ## Install ARGO-CD
 

@@ -1,5 +1,5 @@
 # GitLab local installation & setup
-![ez logo](/resources/images/ez/ez-logo-small.png)
+![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
 ## setup GitLab instance on Kubernetes
 (based on this page: https://docs.gitlab.com/charts/installation/deployment.html)
 

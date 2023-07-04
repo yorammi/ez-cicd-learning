@@ -1,5 +1,5 @@
 # EZ! GitHub Actions challange
-![ez logo](/resources/images/ez/ez-logo-small.png)
+![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
 ## GitHub repository creation
 creating a GitHub repository for the challange, based on a ready made project
  1. Login to your GitHub account. If you don't have a GitHub user yet, [sign up to GitHub](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account#signing-up-for-a-new-account).

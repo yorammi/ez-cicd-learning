@@ -1,5 +1,5 @@
 # ez-nexus-demo
-![ez logo](/resources/images/ez/ez-logo-small.png)
+![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
 
 
 ## setup Nexus server

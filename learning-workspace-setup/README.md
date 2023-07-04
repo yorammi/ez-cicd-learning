@@ -1,5 +1,5 @@
 # ez CI/CD course - setup
-![ez logo](/resources/images/ez/ez-logo-small.png)
+![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
 ## pre-requisites for all workspace needs
 For performing all labs, you need to have a workspace (on your laptop, desktop or other environment such as a cloud-provider environment) with the following tools/technologies:
 - [Docker](https://www.docker.com/) - on laptops you can use [Docker desktop](https://www.docker.com/products/docker-desktop/)

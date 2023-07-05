@@ -1,5 +1,5 @@
 # ez-cicd-learning
-![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
+![ez logo](/resources/images/ez/ez-learning.png)
 # <font color=blue size="16">ez-cicd-learning</font> - easy-to-learn CI/CD
 
 ## Challanges

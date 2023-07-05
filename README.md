@@ -3,6 +3,8 @@
 # <font color=blue size="16">ez-cicd-learning</font> - easy-to-learn CI/CD
 This repository is for setting and describing the challenges that are offered for those who learn CI/CD initialized and guidelined of Yoram Michaeli.
 The repository is part of a set of repositories, tools of solutions grouped by the **EZ!** name.
+
+![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
 ## Challanges
 
 - [GitLab challange](challanges/gitlab-challange)

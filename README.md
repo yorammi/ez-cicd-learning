@@ -5,6 +5,8 @@ This repository is for setting and describing the challenges that are offered fo
 The repository is part of a set of repositories, tools of solutions grouped by the **EZ!** name.
 
 ![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
+
+For more information about courses that uses this repositories as its main resource, address [yorammi](http://www.yorammi.com)
 ## Challanges
 
 - [GitLab challange](challanges/gitlab-challange)

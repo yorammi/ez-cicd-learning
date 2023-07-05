@@ -11,3 +11,4 @@ For more information about courses that uses this repositories as its main resou
 
 - [GitLab challange](challanges/gitlab-challange)
 - [GitHub Actions challange](challanges/github-actions-challange)
+- [ArgoCD challange](challanges/argocd-challange)

@@ -6,7 +6,7 @@ The repository is part of a set of repositories, tools of solutions grouped by t
 
 ![ez logo](/resources/images/ez/ez-smiley-small-logo.png)
 
-For more information about courses that uses this repositories as its main resource, address [yorammi](http://www.yorammi.com)
+For more information about courses that uses this repositories as its main resource, address [yorammi](http://www.yorammi.com).
 ## Challanges
 
 - [GitLab challange](challanges/gitlab-challange)

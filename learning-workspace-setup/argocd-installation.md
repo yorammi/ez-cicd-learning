@@ -22,7 +22,7 @@ kubectl patch svc argocd-server -n argocd -p '{"spec": {"type": "LoadBalancer"}}
 
 Get the password from the new terminal using this command:
 ```
-kubectl -n myargo get secret argocd-initial-admin-secret -o jsonpath='{.data.password}' | base64 -d
+kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath='{.data.password}' | base64 -d
 ```
 
 You can now access the Argo CD UI from your browser by typing the following URL:

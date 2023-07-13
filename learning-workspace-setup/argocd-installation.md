@@ -27,7 +27,7 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath='{.data.pas
 
 You can now access the Argo CD UI from your browser by typing the following URL:
 ```
-http://<IP-address or server-name>:8090
+http://<IP-address or server-name>
 ```
 where the IP is the external-service-IP of the 'argocd-server' service
 
